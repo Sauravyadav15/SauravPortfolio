@@ -30,7 +30,7 @@ const Projects: React.FC = () => {
       description: "A modern, responsive portfolio website built with React and TypeScript. Features include smooth animations, dark theme, active navigation highlighting, and responsive design. Demonstrates skills in modern web development and UI/UX design.",
       technologies: ["React", "TypeScript", "CSS3", "Framer Motion", "Responsive Design"],
       githubUrl: "https://github.com/Sauravyadav15",
-      liveUrl: "http://localhost:3000/cs-portfolio",
+      liveUrl: "https://sauravyadav15.github.io/portfolio",
       image: "https://www.hostinger.com/in/tutorials/wp-content/uploads/sites/52/2022/04/web-developer-portfolio.webp",
       category: "Frontend",
       featured: false,
