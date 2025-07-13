@@ -78,7 +78,7 @@ const Projects: React.FC = () => {
       description: "Designed wireframes and front page layout for AMS (Association of Management Students) website using Figma. Created user interface mockups focusing on modern design principles and improved user experience for the organization's digital presence.",
       technologies: ["Figma", "UI/UX Design", "Wireframing", "Web Design", "Prototyping"],
       githubUrl: "",
-      liveUrl: "https://www.figma.com/design/Vn1sVlEl53yO6nAwsRqjIr/AMS-frontpage?node-id=0-1&p=f&t=oDjm4hgq8bPF8O1i-0",
+      liveUrl: "https://www.figma.com/design/ewYZMlkoCe8ixIJIexbbJJ/AMS-Homepage-Design?node-id=0-1&p=f&t=rzhW21isLRiYfSNv-0",
       image: "https://www.myams.org/wp-content/themes/yootheme/cache/c4/AMS-Colour-White-Black-c484f0a7.webp",
       category: "UI/UX Design",
       featured: false,
