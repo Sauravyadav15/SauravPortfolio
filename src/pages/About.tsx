@@ -35,7 +35,7 @@ const About: React.FC = () => {
             </div>
             <div className="info-item">
               <Calendar size={20} />
-              <span>Engineering Student at Queen's University</span>
+              <span>Computer Engineering Student at Queen's University</span>
             </div>
             <div className="info-item">
               <Mail size={20} />

@@ -144,7 +144,7 @@ const Projects: React.FC = () => {
       >
         <h1 className="section-title">My Projects</h1>
         <p className="section-subtitle">
-          Here are some of the projects I've worked on. Projects marked with "View Code" have their source code available on GitHub, while others are completed projects where the code is not publicly available.
+          Here are some of the projects I've worked on. Projects marked with "View Code " have their source code available on GitHub, while others are completed projects where the code is not publicly available.
         </p>
       </motion.div>
 
