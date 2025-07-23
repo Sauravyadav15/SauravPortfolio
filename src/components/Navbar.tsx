@@ -24,7 +24,7 @@ const Navbar: React.FC = () => {
     <nav className="navbar">
       <div className="nav-container">
         <Link to="/" className="logo">
-          Portfolio
+          Saurav
         </Link>
         
         {/* Desktop Navigation */}
